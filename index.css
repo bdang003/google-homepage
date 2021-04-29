@@ -1,8 +1,12 @@
 .header{
+    list-style: none;
     display:flex;
     flex-direction: row;
+    justify-content: space-around;
 }
 .footer{
+    list-style: none;
     display:flex;
     flex-direction: row;
+    justify-content: center;
 }
